@@ -1,0 +1,23 @@
+{
+  "name": "cp02-cow-say",
+  "version": "0.0.1",
+  "description": "CP02 trello assessment",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docie-ng/CP02-cow-say.git"
+  },
+  "author": "docie-ng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/docie-ng/CP02-cow-say/issues"
+  },
+  "homepage": "https://github.com/docie-ng/CP02-cow-say#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
